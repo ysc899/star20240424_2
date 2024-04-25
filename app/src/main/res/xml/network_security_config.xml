@@ -19,6 +19,7 @@
         <!-- 검사결과 URL -->
         <domain includeSubdomains="true">trms.seegenemedical.com</domain>
         <domain includeSubdomains="true">100.100.100.170</domain>
+        <domain includeSubdomains="true">100.100.100.95</domain>
     </domain-config>
 
 </network-security-config>
